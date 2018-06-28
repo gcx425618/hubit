@@ -1,0 +1,23 @@
+{
+  "name": "hubit",
+  "version": "1.0.0",
+  "description": "一个的问答社区",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcx425618/hubit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcx425618/hubit/issues"
+  },
+  "homepage": "https://github.com/gcx425618/hubit#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
